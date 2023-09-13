@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/me_2023-0902-shoping_cart-context_api-react-build/static/css/main.45ff2efb.css",
+    "main.js": "/me_2023-0902-shoping_cart-context_api-react-build/static/js/main.1ab8bdcc.js",
+    "index.html": "/me_2023-0902-shoping_cart-context_api-react-build/index.html",
+    "main.45ff2efb.css.map": "/me_2023-0902-shoping_cart-context_api-react-build/static/css/main.45ff2efb.css.map",
+    "main.1ab8bdcc.js.map": "/me_2023-0902-shoping_cart-context_api-react-build/static/js/main.1ab8bdcc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45ff2efb.css",
+    "static/js/main.1ab8bdcc.js"
+  ]
+}
